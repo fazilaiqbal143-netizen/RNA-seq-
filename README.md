@@ -43,6 +43,7 @@ JBrowse2 was used to interactively explore alignment data on genomic coordinates
 7. STAR Coverage 
 
 Strand-specific coverage tracks were generated using STAR. Reads from strand 1 are shown in blue and strand 2 in red, allowing visualization of transcription direction and strand bias.
+<img width="1600" height="849" alt="IMG-20260417-WA0001" src="https://github.com/user-attachments/assets/c82a2845-707a-4248-8684-38fbb2ec3b1e" />
 
 
 
