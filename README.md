@@ -35,12 +35,12 @@ Alignment results were visualized in IGV to inspect read coverage across the PE 
 Sashimi plots were generated to visualize exon usage and splice junctions. These plots help in understanding alternative splicing events across the samples.
 
 
-6. JBrowse2 Visualization**
+6. JBrowse2 Visualization
 
 JBrowse2 was used to interactively explore alignment data on genomic coordinates. It provides an intuitive view of read distribution and gene structure.
 
 
-7. STAR Coverage (Strand-specific)**
+7. STAR Coverage 
 
 Strand-specific coverage tracks were generated using STAR. Reads from strand 1 are shown in blue and strand 2 in red, allowing visualization of transcription direction and strand bias.
 
@@ -51,7 +51,7 @@ Strand-specific coverage tracks were generated using STAR. Reads from strand 1 a
 Principal Component Analysis (PCA) was performed to assess variation between samples. It reduces data dimensionality and helps identify clustering patterns based on gene expression profiles.
 
 
-9. Heatmap (Sample-to-sample variability)**
+9. Heatmap 
 
 A heatmap was generated to visualize similarities and differences between samples. It highlights expression patterns and clustering, helping to identify related or distinct samples.
 
