@@ -1,6 +1,6 @@
 
 
-# **🔬 Introduction (short)**
+ Introduction 
 
 This study performs a reference-based RNA-Seq analysis using the Galaxy platform to understand gene expression patterns across samples. The workflow includes quality control, alignment to a reference genome, visualization, and downstream analyses such as PCA and heatmap generation to assess variability and expression differences.
 
@@ -10,6 +10,7 @@ This study performs a reference-based RNA-Seq analysis using the Galaxy platform
 
 FastQC was used to assess the quality of raw sequencing reads. It evaluates parameters such as per-base quality scores, GC content, and sequence duplication to ensure the data is suitable for downstream analysis.
 
+<img width="1600" height="859" alt="IMG-20260417-WA0000" src="https://github.com/user-attachments/assets/4facbd1f-f0b9-419f-9196-f9b458fe9122" />
 
 
 2. Read Trimming
@@ -22,6 +23,7 @@ Low-quality bases and adapter sequences were removed to improve the accuracy of 
 
 Reads were aligned to the reference genome using the STAR aligner. This step maps RNA-Seq reads to their genomic locations, enabling identification of expressed genes and splice junctions.
 
+<img width="1600" height="839" alt="IMG-20260417-WA0002" src="https://github.com/user-attachments/assets/cee62e48-ffa1-4833-bad4-51c54150b5cd" />
 
 
 4. Alignment Visualization (IGV)
